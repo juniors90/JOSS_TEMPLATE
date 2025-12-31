@@ -106,11 +106,11 @@ For a quick reference, the following citation commands can be used:
 # Figures
 
 Figures can be included like this:
-![Caption for example figure.\label{fig:example}](/figures/69168302.png)
+![Caption for example figure.\label{fig:example}](./figures/69168302.png)
 and referenced from text using \autoref{fig:example}.
 
 Figure sizes can be customized by adding an optional second parameter:
-![Caption for example figure.](/figures/69168302.png){ width=20% }
+![Caption for example figure.](./figures/69168302.png){ width=20% }
 
 # Acknowledgements
 
